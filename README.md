@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.org).
+
+GUI use shadcn, tailwind-css.
+Payload CMS work with Mongodb, CRUD dashboard work by CMS payload.
+Back-end Control by TRPC, for router, query and more .
 
 ## Getting Started
 
@@ -10,8 +14,8 @@ yarn
 ```
 
 ```bash
-#install packages
-yarn
+#Generate types for payload cms
+yarn yarn generate:types
 ```
 
 then
