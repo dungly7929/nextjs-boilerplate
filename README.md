@@ -1,8 +1,11 @@
 This is a [Next.js](https://nextjs.org).
 
-GUI use shadcn, tailwind-css.
-Payload CMS work with Mongodb, CRUD dashboard work by CMS payload.
-Back-end Control by TRPC, for router, query and more .
+GUI use shadcn, tailwind-css.<br />
+Payload CMS work with Mongodb, CRUD dashboard work by CMS payload.<br />
+Back-end Control by TRPC, for router, query and more .<br />
+
+<br />
+Edit .env mongodb setup url with your mongodb connect.
 
 ## Getting Started
 
@@ -24,3 +27,6 @@ run project
 ```bash
 yarn dev
 ```
+
+<br />
+Go to localhost:3000/admin to create the first admin user.
